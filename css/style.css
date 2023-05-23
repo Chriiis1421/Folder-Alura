@@ -134,4 +134,8 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__links__botao {
+        font-size: 1rem;
+    }
 }
